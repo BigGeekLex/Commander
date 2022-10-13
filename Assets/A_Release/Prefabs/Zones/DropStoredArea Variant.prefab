@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1594670236012760658
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1201633251513045189, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: value.maxCapacity
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045189, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: value.isPickableArea
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045213, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_Name
+      value: DropStoredArea Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045213, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: DropZone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201633251513045214, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4787867689836766924, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_text
+      value: Drop zone
+      objectReference: {fileID: 0}
+    - target: {fileID: 5957614599587393902, guid: 976ff7d1f2bc24d3e8095102e52bbd7c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fd8aea596e7384056998dfb8bca8dc41, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 976ff7d1f2bc24d3e8095102e52bbd7c, type: 3}
